@@ -1,0 +1,6 @@
+<s> Summer is close </s>
+<s> I am excited for summer </s>
+<s> I am sad ski season ended </s>
+<s> I am sad winter ended </s>
+<s> Swimming season is close </s>
+<s> I am excited for swimming soon </s> 

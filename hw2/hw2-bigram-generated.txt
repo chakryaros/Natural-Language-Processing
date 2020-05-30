@@ -1,0 +1,100 @@
+<s> do you give me tell me about sushi-sho </s>
+<s> are there in business </s>
+<s> i would like to be <UNK> restaurants </s>
+<s> i find uh cheap meal around two miles round six blocks from bette's bakeshop </s>
+<s> i look for ten dollar <UNK> you tell me about la tour eiffel at grace cafe brit-marie's </s>
+<s> tuesdays </s>
+<s> can i want brunch is coming to have around thirty minutes or it doesn't matter </s>
+<s> what about cafe vin </s>
+<s> tuesdays </s>
+<s> which kind of the place that are any information on tuesday </s>
+<s> i want spaghetti in ten dollars </s>
+<s> oh </s>
+<s> new query </s>
+<s> i'd like beer </s>
+<s> new query </s>
+<s> stuffed inn sujatha's sushi-sho taiwan restaurant </s>
+<s> new query </s>
+<s> new query </s>
+<s> prefer german restaurants again </s>
+<s> not five minute drive someplace doesn't </s>
+<s> new query </s>
+<s> okay back to breakfast <UNK> some desserts </s>
+<s> tell me a red bordeaux wine </s>
+<s> new query </s>
+<s> i get spaghetti in eight dollars or french or turkish food kosher deli shin-shin please </s>
+<s> new query </s>
+<s> can you just <UNK> college avenue </s>
+<s> i'm interested in eight dollars </s>
+<s> i'm looking for at bucci's menu of any brazilian </s>
+<s> since i'm willing to spend five per person </s>
+<s> i would like to spend very near by the cost to walk ten dollar per meal ticket </s>
+<s> start over </s>
+<s> i'd like meat <UNK> less than ten five per person </s>
+<s> uh there any will go within walking distance be cheap indian restaurants </s>
+<s> new query </s>
+<s> i would like russian places </s>
+<s> not icksee </s>
+<s> new query </s>
+<s> thank you give me about restaurant can uh my mother is coming to eat african food </s>
+<s> oh about oriental food </s>
+<s> i increase the address of italian food </s>
+<s> new query </s>
+<s> prefer german restaurant twenty dollar and cost now i'd like to spend four miles </s>
+<s> new query </s>
+<s> can have chinese restaurant </s>
+<s> start over </s>
+<s> where can you tell me places on <UNK> that has a cheap </s>
+<s> do any african are around one have a cheap </s>
+<s> wednesday </s>
+<s> new query </s>
+<s> prefer german tomorrow for dinner in picante taqueria </s>
+<s> prefer german restaurant </s>
+<s> new query </s>
+<s> tuesday what can be within ten miles </s>
+<s> start over </s>
+<s> new query </s>
+<s> new query </s>
+<s> i pay five minutes </s>
+<s> prefer german food to breakfast </s>
+<s> can you list no thai barbecue have breakfast i increase the restaurant </s>
+<s> i want to eight people can you know about thursday is coming to spend five dollars </s>
+<s> i would like to breakfast </s>
+<s> tuesdays </s>
+<s> thank you give me an american or it open after midnight </s>
+<s> new query </s>
+<s> i'd like to breakfast </s>
+<s> i would like russian food </s>
+<s> i need be close to have additional information oh we've somebody <UNK> i'd like to breakfast </s>
+<s> do you know everything on wednesday please a pizza </s>
+<s> on a walking distance walking distance to know more on sunday </s>
+<s> i want to go back to breakfast at sujatha's </s>
+<s> international house </s>
+<s> how much maybe less than thirty dollars </s>
+<s> i would like greek restaurants in a fun um what about mediterranee today </s>
+<s> new query </s>
+<s> tuesdays </s>
+<s> oliveto's menu of south side of coffee </s>
+<s> i want some taiwanese food to eat on mondays </s>
+<s> information about coffee renaissance </s>
+<s> tell me more about your favorite restaurant and under six dollars and since i'm looking for food types of cha-am open late night </s>
+<s> tuesdays </s>
+<s> i increase the address of berkeley </s>
+<s> about mediterranee </s>
+<s> okay back to get spaghetti in business hours is coming to eat in the best burger in berkeley bart station </s>
+<s> new query </s>
+<s> during the second thought tell me what the address of cha-am open late </s>
+<s> tuesday night i want to taco bell </s>
+<s> do you tell me about the thai food </s>
+<s> do you tell me the normal stuff what saul's deli </s>
+<s> greek restaurant is coming to go for an italian food something <UNK> college <UNK> priced breakfast food distance anywhere </s>
+<s> tuesdays </s>
+<s> i want to spend four dollars </s>
+<s> with entertainment </s>
+<s> i'd like to breakfast </s>
+<s> i'd like to have to breakfast i increase the normal stuff what is coming to breakfast too far </s>
+<s> new query </s>
+<s> less for dinner anywhere in monday </s>
+<s> tuesdays </s>
+<s> i increase the restaurant right outside </s>
+<s> i wanted to icsi </s>

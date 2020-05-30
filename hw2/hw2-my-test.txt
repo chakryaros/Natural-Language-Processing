@@ -1,0 +1,101 @@
+<s> a wonderful day </s>
+<s> go to school </s>
+<s> and i'm willing to study ten hours </s>
+<s> and this will be for dinner </s>
+<s> dinner </s>
+<s> is cambodian restaurants in denver </s>
+<s> between five and ten dollars </s>
+<s> restaurants are close today </s>
+<s> i am going to have dinner with my friends </s>
+<s> go to lunch </s>
+<s> go swimming </s>
+<s> do you have mexican food </s>
+<s> do you know any thai food </s>
+<s> it is matter </s>
+<s> eat at school </s>
+<s> thirteen dollars </s>
+<s> very cheap food </s>
+<s> it is far from my house </s>
+<s> please tell me where to eat thai food </s>
+<s> indonesian is quite expensive </s>
+<s> it sounds very good </s>
+<s> how far is the berkely from computer science institute </s>
+<s> i want to go to restaurants this evening </s>
+<s> i don't like to eat american food </s>
+<s> i wanna spend between ten and sixteen dollars </s>
+<s> i want dinner on monday </s>
+<s> i want taco </s>
+<s> i want restaurants anywhere </s>
+<s> i want somewhere for dinner any day of the week </s>
+<s> i don't want to eat in the elmwood </s>
+<s> i want to eat sweet food </s>
+<s> i want to go to the restaurant at the weekend </s>
+<s> i want to know more about la tour eiffel </s>
+<s> i want to drive to the italian restaurant </s>
+<s> i will not pay a sixty dollars for lunch </s>
+<s> i will never eat breakfast outside </s>
+<s> i will pay a tweenty dollars for junk food </s>
+<s> i would like to eat on the weekend </s>
+<s> i would like to go to american restaurants </s>
+<s> i'd like a cambodian restaurant </s>
+<s> i'd like to drink some beer </s>
+<s> i'd like to have some pork </s>
+<s> i'd like to cook more about guerrero's </s>
+<s> i'd like uh mexican food over ten dollars  </s>
+<s> i'm looking for a romantic restaurant for dinner </s>
+<s> i'm going to travel seven minutes from csel </s>
+<s> cheap food </s>
+<s> expensive food </s>
+<s> is there an mexican restaurant under fifteen dollars </s>
+<s> wonderful restaurant </s>
+<s> it is very expensive restaurant </s>
+<s> it is very cheap restaurant </s>
+<s> let's start again </s>
+<s> let's go to restaurant </s>
+<s> let's start over </s>
+<s> on monday or sunday night </s>
+<s> please tell me where to find a good restaurant </s>
+<s> cambodian restaturan </s>
+<s> tell me the good resturant </s>
+<s> show the list of the restaurants please </s>
+<s> come again </s>
+<s> tell me more about oriental food to go </s>
+<s> tell me the best japanese restaurant anywhere </s>
+<s> tomorrow going to be raining </s>
+<s> how far from here to japanese restaurant </s>
+<s> the price could be up to fifty dollars </s>
+<s> four dollars </s>
+<s> dinner </s>
+<s> lunch </s>
+<s> uh i said i don't wanna spend more than twenty dollars </s>
+<s> uh i don't want a place that is too quiet </s>
+<s> uh i'm willing to travel about an hour from here </s>
+<s> what about thai dessert </s>
+<s> please choose your choices </s>
+<s> i want to go to mexican food this weekend </s>
+<s> what is taco food </s>
+<s> where is japanese restaurant </s>
+<s> i want a good restaurant but it is not expensive </s>
+<s> american food is better than taco </s>
+<s> any dinner will be fine </s>
+<s> prefer to less distance </s>
+<s> at saturday </s>
+<s> crab </s>
+<s> dinner night </s>
+<s> let go to eat sushi </s>
+<s> cheap cheap </s>
+<s> i'm really hungry </s>
+<s> could i see the menu for cambodia food </s>
+<s> lunch </s>
+<s> drink beer </s>
+<s> no like to go far </s>
+<s> please tell me where to eat a good cambodia food </s>
+<s> two dollars  </s>
+<s> give me a drink </s>
+<s> give me additional information on cambodia food </s>
+<s> give me a japanese food </s>
+<s> how about taco food </s>
+<s> i don't want to spend over ten on taco </s>
+<s> i don't want to spend more than twenty dollors on a bad food </s>
+<s> i like a good food  </s>
+
